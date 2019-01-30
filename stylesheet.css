@@ -1,0 +1,13 @@
+
+.title, .benefits {
+    text-align: center;
+    color:#333333;
+    font-family: 'Times New Roman', cursive;
+    font-size: 65px;
+}
+.about, .photo_one, .buy_now {
+    text-align: center;
+    color:#333333;
+    font-family: 'Times New Roman', cursive;
+    font-size: 30px;
+}
